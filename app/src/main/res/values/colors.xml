@@ -1,0 +1,13 @@
+<resources>
+    <color name="primaryColor">#FFFFFF</color> <!-- 흰색 -->
+    <color name="primaryDarkColor">#E0E0E0</color> <!-- 밝은 회색 -->
+    <color name="secondaryColor">#03A9F4</color> <!-- 밝은 파란색 -->
+    <color name="backgroundColor">#FAFAFA</color> <!-- 아주 밝은 회색 -->
+    <color name="textColorPrimary">#212121</color> <!-- 짙은 회색 -->
+    <color name="textColorSecondary">#757575</color> <!-- 중간 회색 -->
+    <color name="white">#FFFFFF</color> <!-- 흰색 -->
+    <color name="buttonColor">#E0E0E0</color> <!-- 밝은 회색 (EditText와 동일한 색상) -->
+    <color name="editTextBackground">#E0E0E0</color> <!-- 밝은 회색 -->
+    <color name="dividerColor">#BDBDBD</color> <!-- 밝은 회색 (구분선) -->
+    <color name="buttonTextColor">#212121</color> <!-- 버튼 텍스트 색상 (짙은 회색) -->
+</resources>

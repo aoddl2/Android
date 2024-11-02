@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tourist Guide</string>
+    <string name="enter_keyword">Enter keyword</string>
+    <string name="search">Search</string>
+    <string name="no_data_available">No data available</string>
+    <string name="failed_to_fetch_data">Failed to fetch data</string>
+    <string name="please_enter_keyword">Please enter a keyword</string>
+    <string name="api_call_failed">API call failed</string>
+</resources>
